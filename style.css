@@ -1,0 +1,22 @@
+.body{
+   text-align: center;
+}
+.outerdiv{
+   border: 2px solid black;
+   text-align: center;
+   background-color: rgb(40, 137, 137);
+}
+.serchdiv{
+   margin-top: 10px;
+   border: 2px solid black;
+   width: 200px;
+   margin-left: 45%;
+   padding: 10px;
+   background-color: rgb(84, 164, 164);
+
+}
+.listdiv{
+   margin-top: 10px;
+   /* margin-left: 45%; */
+   text-decoration: none;
+}

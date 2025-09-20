@@ -20,3 +20,6 @@ HTML – Structure of the page.
 CSS – Basic styling.
 
 JavaScript – Fetch API to call and display results
+
+
+# Thank you!
